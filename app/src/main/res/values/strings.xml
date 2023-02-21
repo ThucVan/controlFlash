@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">controlFlash</string>
+    <string name="flashOn">Turn On Flash</string>
+    <string name="flashOnBlinkMode">"Turn On Flash Blink "</string>
+    <string name="flashOff">Flash Off</string>
+    <string name="timeOnFlashBlink">Time On Flash Blink</string>
+    <string name="timeDelayBlink">Time Delay</string>
+</resources>
